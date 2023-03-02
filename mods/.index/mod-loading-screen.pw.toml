@@ -1,0 +1,14 @@
+name = "Mod Loading Screen"
+filename = "mod-loading-screen-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xAGJ6rQS/versions/hPWDKr8S/mod-loading-screen-1.0.1.jar"
+hash-format = "sha512"
+hash = "e3394d54db94d9a6c4711513734a1242633247bcd7820bca5df1d2fbfc1434b483839d73a50b9a9b37c20f772a3b75df8774b8d89d5289a250906b48e6b30679"
+
+[update]
+[update.modrinth]
+mod-id = "xAGJ6rQS"
+version = "hPWDKr8S"

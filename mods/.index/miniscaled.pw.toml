@@ -1,0 +1,14 @@
+name = "MiniScaled"
+filename = "mini_scaled-2.1.0-mc1.19.3-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6950ddd9cdb87b9053be41d71469da673db80990"
+
+[update]
+[update.curseforge]
+file-id = 4351424
+project-id = 532473

@@ -1,0 +1,14 @@
+name = "EssentialGUI"
+filename = "EssentialGUI-1.8.4+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EquRYbwe/versions/VhXKGBrs/EssentialGUI-1.8.4%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "d60721ee2d6ffa451f741698ffa466aeeb33e33a4556c5ad92315b501cbcce3da744c4ff18ada56ff94e2ea1311038b4fe61c21fab4610cfc5ba09775a496ac5"
+
+[update]
+[update.modrinth]
+mod-id = "EquRYbwe"
+version = "VhXKGBrs"

@@ -1,0 +1,14 @@
+name = "Taterzens [Fabric]"
+filename = "taterzens-1.11.2-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "55540875c926a4a54d8ad93ee9d1eeee24b95777"
+
+[update]
+[update.curseforge]
+file-id = 4166436
+project-id = 446499

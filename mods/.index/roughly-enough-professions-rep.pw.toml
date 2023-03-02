@@ -1,0 +1,14 @@
+name = "Roughly Enough Professions (REP)"
+filename = "RoughlyEnoughProfessions-fabric-1.19.3-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/V8XJ8f5f/versions/gNcX6Hqf/RoughlyEnoughProfessions-fabric-1.19.3-1.2.0.jar"
+hash-format = "sha512"
+hash = "9ca2c98e59cf5520f9c1525396c3f8e49f3f902deac0b032ccbd974d9e367c1f51456426f354d87f48cf05a7fcda31b423b0f33f6ec8bb323e7afaf0b33c2e72"
+
+[update]
+[update.modrinth]
+mod-id = "V8XJ8f5f"
+version = "gNcX6Hqf"

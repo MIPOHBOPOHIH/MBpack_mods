@@ -1,0 +1,14 @@
+name = "Ngrok LAN"
+filename = "ngrok-lan-expose-mod-1.4.4-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a6c473b3751161debb210c764143763c758b2a00"
+
+[update]
+[update.curseforge]
+file-id = 4183283
+project-id = 602252

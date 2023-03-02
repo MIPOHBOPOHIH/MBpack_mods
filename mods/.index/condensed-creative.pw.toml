@@ -1,0 +1,14 @@
+name = "Condensed Creative"
+filename = "condensed_creative-3.0.0+1.19.3-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Zw7fMbBg/versions/aojxSrmn/condensed_creative-3.0.0%2B1.19.3-fabric.jar"
+hash-format = "sha512"
+hash = "8811f081fbaac24b579be94d2b2c765e0c18199c9eac9e212120a9de5c14bf811bdd5235320077d15d0972be51d69cd2c09bf5f147237bb479fccb16d65da58b"
+
+[update]
+[update.modrinth]
+mod-id = "Zw7fMbBg"
+version = "aojxSrmn"

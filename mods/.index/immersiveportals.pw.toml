@@ -1,0 +1,14 @@
+name = "Immersive Portals"
+filename = "immersive-portals-2.5.1-mc1.19.3-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zJpHMkdD/versions/osoxVElg/immersive-portals-2.5.1-mc1.19.3-fabric.jar"
+hash-format = "sha512"
+hash = "ab50094df5569f35120bc419c87fcee13620423f51335c45c880c346ee726c71a6b91addba7448b830264f7ab2960140f43c1ba24e602b496951c8d2678e16bf"
+
+[update]
+[update.modrinth]
+mod-id = "zJpHMkdD"
+version = "osoxVElg"

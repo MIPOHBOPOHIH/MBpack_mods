@@ -1,0 +1,14 @@
+name = "ClientStorage"
+filename = "clientstorage-fabric-client-1.19.3-1.4.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/A8d8aILe/versions/IgFgsffy/clientstorage-fabric-client-1.19.3-1.4.1.jar"
+hash-format = "sha512"
+hash = "04d2e5f5b609b2abe3816cb02f3c1c372dfac1b506ce25b7cce1eb837f628cdeba4722941c4b0f5a68608176a2531d7303c5c6b3581659183dfa81e90fb49207"
+
+[update]
+[update.modrinth]
+mod-id = "A8d8aILe"
+version = "IgFgsffy"

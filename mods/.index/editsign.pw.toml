@@ -1,0 +1,14 @@
+name = "EditSign"
+filename = "EditSign-1.19.3-2.7.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hFMCvH85/versions/atMpHkci/EditSign-1.19.3-2.7.0.jar"
+hash-format = "sha512"
+hash = "71a1b2945323d31aaa137bcad9450c19698770eb77683e1ad28a1a662155deaeab5259e2e313fadd6c2ee48abacc92b596a32d84b4bf8392da33b79c9440e60c"
+
+[update]
+[update.modrinth]
+mod-id = "hFMCvH85"
+version = "atMpHkci"

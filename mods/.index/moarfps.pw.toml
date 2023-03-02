@@ -1,0 +1,14 @@
+name = "Moar FPS"
+filename = "moarfps-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WXDPjSZb/versions/boBfahS3/moarfps-1.1.0.jar"
+hash-format = "sha512"
+hash = "fa9f81a2eff1c2e6e7b1a3fb77cf88dba4b40bd4be661de000def3bef619b91adcfb8be3c7196d685efad7fe74d25ad1bac62a6bb11d6cf08325ce201652ccff"
+
+[update]
+[update.modrinth]
+mod-id = "WXDPjSZb"
+version = "boBfahS3"

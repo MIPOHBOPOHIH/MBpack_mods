@@ -1,0 +1,14 @@
+name = "PaperDoll"
+filename = "paperdoll-fabric-1.1.1-mc1.19.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a00acee449194d5d91088d97c9b27770bd6224ae"
+
+[update]
+[update.curseforge]
+file-id = 4182590
+project-id = 537079

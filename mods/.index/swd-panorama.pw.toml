@@ -1,0 +1,14 @@
+name = "Panorama"
+filename = "panorama-1.2.0+-+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DoH2V0z5/versions/4JGSafLw/panorama-1.2.0 - 1.19.3.jar"
+hash-format = "sha512"
+hash = "49227be43a0bf43419c62170b4dfa7babca06088f9570432e242870eb6090de3ed75e5563497df7a5ac2907dc426e6109b406b805cb0aadd504ec2c0c8b8e77a"
+
+[update]
+[update.modrinth]
+mod-id = "DoH2V0z5"
+version = "4JGSafLw"

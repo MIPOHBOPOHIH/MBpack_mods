@@ -1,0 +1,14 @@
+name = "InvMove"
+filename = "InvMove-1.19-0.8.2-Quilt.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/LG7n0kA8/InvMove-1.19-0.8.2-Quilt.jar"
+hash-format = "sha512"
+hash = "692d2118fedc12216441da51a49c2288a2853f8a9fea0fd1d697784f5566776496dad62bdf880f521a4dddf784a772944c4118548e5aa68cd7ad45aa0208a65e"
+
+[update]
+[update.modrinth]
+mod-id = "REfW2AEX"
+version = "LG7n0kA8"

@@ -1,0 +1,14 @@
+name = "Hat List"
+filename = "hatlist-1.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d38b599f688b6072ed953eea6ea516cb9a90dcfc"
+
+[update]
+[update.curseforge]
+file-id = 4191427
+project-id = 438643

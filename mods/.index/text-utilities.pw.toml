@@ -1,0 +1,14 @@
+name = "Text Utilities"
+filename = "text-utilities-fabric-1.4.1+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1bHGioWI/versions/tOlHYOTj/text-utilities-fabric-1.4.1%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "1a6d5c137298ec19463cadfe43e48b4b9783cde43a48dbd654d5edc81d46f69c2d15658c9a88ba99a3ca032569a9f4ff0ec3822d9da8e4155df6112bad8f5630"
+
+[update]
+[update.modrinth]
+mod-id = "1bHGioWI"
+version = "tOlHYOTj"

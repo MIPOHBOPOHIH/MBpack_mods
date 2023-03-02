@@ -1,0 +1,14 @@
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-4.3.0+1.19.3-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ac580a3b5e2672c436a3bd4951b144b14d95015b"
+
+[update]
+[update.curseforge]
+file-id = 4378466
+project-id = 353890

@@ -1,0 +1,14 @@
+name = "Effortless Fabric"
+filename = "effortless-fabric-1.6.2-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0c5fa1341c267a5e7d9c0d5949b3980fb85b85de"
+
+[update]
+[update.curseforge]
+file-id = 4284073
+project-id = 676885

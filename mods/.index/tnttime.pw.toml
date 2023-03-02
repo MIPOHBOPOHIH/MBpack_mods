@@ -1,0 +1,14 @@
+name = "TNTTime"
+filename = "tnttime-mc1.19.3-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e2d6adb4504eece1f69d7a78d7ac0e0acf862784"
+
+[update]
+[update.curseforge]
+file-id = 4348660
+project-id = 531174
